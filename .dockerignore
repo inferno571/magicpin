@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+.env
+.env.example
+.git
+dataset/
+examples/
+*.md
+judge_simulator.py
+engagement-design.md
+engagement-research.md
+challenge-brief.md
+challenge-testing-brief.md
